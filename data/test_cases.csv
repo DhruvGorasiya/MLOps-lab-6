@@ -1,0 +1,10 @@
+operation,num1,num2,expected_result
+addition,5,3,8
+subtraction,10,4,6
+multiplication,6,7,42
+division,20,4,5
+power,2,8,256
+modulo,17,5,2
+division,15,3,5
+power,3,3,27
+modulo,10,3,1
